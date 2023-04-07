@@ -5,4 +5,4 @@ You can host twtxt files on here. Ask for a designated folder via discussions fi
 ## users
 ### current users
 [pythone](pythone/twtxt.txt)
-- [Following](pythone/config)
+- [Following](pythone/config.txt)
